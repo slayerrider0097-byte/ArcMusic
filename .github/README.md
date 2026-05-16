@@ -75,6 +75,7 @@ vi .env # Edit .env with your credentials
 - **API ID & Hash**: Visit [my.telegram.org](https://my.telegram.org)
 - **Session String**: Use [@StringFatherBot](https://t.me/StringFatherBot) or online generator
 - **MongoDB**: Free tier at [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
+- **API Key**: Visit[Arc API Dashboard](https://portal.arcmusic.fun/register)
 
 5. **Start the Bot**
 ```bash
@@ -161,7 +162,7 @@ YukkiMusic uses a **modular platform system** to support multiple music sources:
 1. **Telegram** (Priority: 100) - Direct Telegram audio/video files
 2. **YouTube** (Priority: 90) - YouTube videos and playlists
 3. **Youtubify API** (Priority: 80) - Premium YouTube downloads
-4. **Arc API** (Priority: 75) - YouTube downloads via Arc API. [🌟 Register and start your free trial now! 🌟](https://deadlinetech.site/register)
+4. **Arc API** (Priority: 75) - YouTube downloads via Arc API. [🌟 Register and start your free trial now! 🌟](https://portal.arcmusic.fun/register)
 5. **YT-DLP** (Priority: 70) - Direct yt-dlp integration
 
 ### How It Works
