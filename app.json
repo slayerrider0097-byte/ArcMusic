@@ -2,8 +2,8 @@
     "name": "ArcMusic",
     "description": "A Telegram bot that streams music into group voice chats with seamless playback and control.",
     "keywords": ["telegram", "bot", "music", "go", "voice-chat"],
-    "repository": "https://github.com/tusar404/ArcMusic",
-    "website": "https://github.com/tusar404/ArcMusic",
+    "repository": "https://github.com/slayerrider0097-byte/ArcMusic",
+    "website": "https://youtube.com/@slayerridervlogs?si=G7o0JeHeKcXyFlY6",
     "stack": "container",
     "env": {
         "API_ID": {
@@ -73,12 +73,12 @@
         },
         "SUPPORT_CHAT": {
             "description": "The URL of your support chat.",
-            "value": "https://t.me/ArcChatz",
+            "value": "https://t.me/+571PcuJAHeU0MTU1",
             "required": false
         },
         "SUPPORT_CHANNEL": {
             "description": "The URL of your support channel.",
-            "value": "https://t.me/ArcUpdates",
+            "value": "https://t.me/+xHz3OmQTHSI0Mzk1",
             "required": false
         },
         "COOKIES_LINK": {
